@@ -14,7 +14,7 @@ const greeting = {
   username: "Saurao Dalvi",
   title: "Hi all, I'm Saurao",
   subTitle: emoji(
-    "I have creativity engraved on my myocardium i.e. heart. Excited to enter the world of marketing to aid development, help brands, and learn a lot. A firm believer of \"I am not perfect but I am a limited edition.\" <br/>✨What I am good at✨ <br/>📈Product Management <br/>🎨Marketing"
+    "I have creativity engraved on my myocardium i.e. heart. Excited to enter the world of marketing to aid development, help brands, and learn a lot. A firm believer of - I am not perfect but I am a limited edition."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1Rgni8GdQWDVVsg16EIOicuaD4Du2f7Q4/view?usp=sharing", // Set to empty to hide the button
