@@ -14,7 +14,7 @@ const greeting = {
   username: "Saurao Dalvi",
   title: "Hi all, I'm Saurao",
   subTitle: emoji(
-    "I have creativity engraved on my myocardium i.e. heart. Excited to enter the world of marketing to aid development, help brands, and learn a lot. A firm believer of "I am not perfect but I am a limited edition".
+    "I have creativity engraved on my myocardium i.e. heart. Excited to enter the world of marketing to aid development, help brands, and learn a lot. A firm believer of \"I am not perfect but I am a limited edition.\"
 <br/>✨What I am good at✨
 <br/>📈Product Management
 <br/>🎨Marketing"
